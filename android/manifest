@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: androidisgpson
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2016 by Your Company
+
+# these should not be edited
+name: androidisgpson
+moduleid: com.restadoapp.androidisgpson
+guid: 2365638e-7f83-48a2-a498-4bebf1f0c021
+platform: android
+minsdk: 5.2.2.GA
